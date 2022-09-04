@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  FlagApp
+
+  Created by Daniele on 18/07/22.
+  
+*/
+"details.area"="Area";
+"details.name.official"="Official name";
+"details.population"="Population";
+"details.languages"="Spoken languages";
+"details.languages"="Spoken languages";
+"details.region"="Region";
+"details.capital"="Capital";
+"details.fifa" = "Fifa";
+"details.cca2"="ISO 3166-1 identifier";
+"details.error.generic" = "There was an error.\n Go back and try again";
+
+"list.sortMenu.name" = "Sort by name(asc)";
+"list.sortMenu.population" = "Sort by population(asc)";
+"list.sortMenu.area" = "Sort by area(asc)";
+"list.search.empty" = "No result found";
+"list.error.generic" = "There was an error";
+"list.error.retry" = "Tap to retry";
+
